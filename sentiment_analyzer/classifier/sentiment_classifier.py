@@ -6,6 +6,7 @@ from transformers import BertModel
 with open("config.json") as json_file:
     config = json.load(json_file)
 
+
 class SentimentClassifier(nn.Module):
     def __init__(self, n_classes):
         super(SentimentClassifier, self).__init__()
