@@ -18,4 +18,4 @@ Send a test request:
 
 ## License
 
-MIT
+Apache
