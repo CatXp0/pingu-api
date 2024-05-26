@@ -1,6 +1,6 @@
 {
     "BERT_MODEL": "readerbench/RoBERT-small",
-    "PRE_TRAINED_MODEL": "assets/model_state_dict.bin",
+    "PRE_TRAINED_MODEL": "assets/best_model_state_dic.bin",
     "CLASS_NAMES": [
         "1",
         "2",
